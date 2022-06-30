@@ -1,0 +1,107 @@
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal (5)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Clau\Downloads\Version2\Nueva Version\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Escritorio\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.FormAyuda.resources
+C:\Users\Andres Negrette\Desktop\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.FormAyuda.resources
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.FormAyuda.resources
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Clau\Downloads\Version2\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.FormAyuda.resources
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\Carolina\Downloads\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csprojAssemblyReference.cache
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.FormAyuda.resources
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+D:\Escritorio\TonyPizzeria-ProyectoFinal (2)\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe.config
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\bin\Debug\TonyPizzeria-ProyectoFinal.pdb
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.TonyPizzeria.resources
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.FormAyuda.resources
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria_ProyectoFinal.Properties.Resources.resources
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.exe
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\TonyPizzeria-ProyectoFinal\TonyPizzeria-ProyectoFinal\obj\Debug\TonyPizzeria-ProyectoFinal.pdb
